@@ -1,4 +1,20 @@
-1
-2
-3
-4
+Address of a: 0x7ffc0f4bc368
+Value at the address of a: 5
+New value of a: 10
+Address of ptr_a: 0x7ffc0f4bc370
+Value at the address of ptr_a: 0x7ffc0f4bc368
+Value at the address pointed by ptr_ptr_a: 10
+New value of a: 20
+Address of arr[0]: 0x7ffc0f4bc380
+Value at the address of arr[0]: 1
+Address of arr[1]: 0x7ffc0f4bc384
+Value at the address of arr[1]: 2
+Address of arr[2]: 0x7ffc0f4bc388
+Value at the address of arr[2]: 3
+Address of arr[3]: 0x7ffc0f4bc38c
+Value at the address of arr[3]: 4
+Address of arr[4]: 0x7ffc0f4bc390
+Value at the address of arr[4]: 5
+New value of arr[2]: 100
+Value of a before increment: 20
+Value of a after increment: 21
